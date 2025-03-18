@@ -10,19 +10,19 @@ body{
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
-    padding:30px 40px;
+    padding:20px 40px;
     border-radius: 15px;
     text-align: center;
    
 }
 .social__links__profile h3{
     margin-bottom: 5px;
-    font-size:x-large;
-    font-weight: 500;
+    font-size:larger;
+    font-weight: 300;
 }
 .social__links__profile span{
     color: #c5f82a;
-    font-size:small;
+    font-size:x-small;
     margin-top: 0;
 }
 .social__links__img{
@@ -35,6 +35,7 @@ body{
 }
 .social__links__profile p{
    font-size: smaller;
+   margin-top: 20px;
 }
 .social__links{
     list-style: none;
